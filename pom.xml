@@ -30,12 +30,12 @@
   </dependencies>
   <distributionManagement>
       <repository>
-          <id>nexus</id>  
+          <id>Nexus_1</id>  
           <name>Release Repos</name>
           <url>http://35.214.7.43:8081/repository/first-release/</url>
        </repository>
       <snapshotRepository>
-          <id>nexus</id>
+          <id>Nexus_1</id>
           <name>Snapshot Repos</name>
           <url>http://35.214.7.43:8081/repository/first-snapshot/</url>
       </snapshotRepository>
